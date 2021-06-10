@@ -1,9 +1,9 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc/",
-  "1.12-forge": "2.1.1",
-  "1.15-forge": "2.1.2",
-  "1.16-forge": "2.1.2",
-  "1.15-fabric": "2.1.1",
-  "1.16-fabric": "2.1.1",
-  "1.17-fabric": "2.1.1"
+  "1.12-forge": "2.2",
+  "1.15-forge": "2.2",
+  "1.16-forge": "2.2",
+  "1.15-fabric": "2.2",
+  "1.16-fabric": "2.2",
+  "1.17-fabric": "2.2"
 }

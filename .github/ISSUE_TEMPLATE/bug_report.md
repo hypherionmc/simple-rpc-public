@@ -29,7 +29,7 @@ If applicable, add screenshots to help explain your problem.
  - Mod Version:
  - Discord Version:
  - Minecraft Version:
- - Forge Version:
+ - Forge/Fabric Version:
 
 **Additional context**
 Add any other context about the problem here.

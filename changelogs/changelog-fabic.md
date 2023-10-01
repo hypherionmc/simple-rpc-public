@@ -8,6 +8,10 @@
 
 The config screen is currently broken, and so is the discord button texture in the options screen
 
+**Changes**:
+
+* Some known servers like Hypixel will no longer override the RPC display. You can add your own override using the server-entries config
+
 **Bug Fixes**:
 
 * Fixed an issue with Skin Overlays not showing with %playerhead%

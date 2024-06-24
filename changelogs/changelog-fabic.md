@@ -6,10 +6,5 @@
 
 **Bug Fixes**:
 
-- Fixed PlayerHead variable not resolving
-
-**Technical Changes**:
-
-- No longer requires fabric or quilt api, but DOES require craterlib
-- Requires CraterLib v2.0.0 as a minimum
-- This jar supports 1.18.2 and up, as well as forge, fabric, quilt and neoforge, as long as craterlib is available for it.
+- Fixed RPC not changing when connecting to a server
+- Fixed a random log spam when the GUI changes in game

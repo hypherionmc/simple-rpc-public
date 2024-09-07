@@ -3,9 +3,8 @@
 **Notices**:
 
 - The in game config gui (which sucked anyway), is disabled for now. You can use our brand new [online editor](https://editor.firstdark.dev) instead
-- Requires CraterLib 2.0.1 and newer
+- Requires CraterLib 2.1.0 and newer
 
-**Bug Fixes**:
+**Changes**:
 
-- Fixed Server Side config not syncing to the client
-- Fixed a severe lag issue when connected to LAN world, or server via Direct connection (craterlib update required for this)
+- Updated to support the new CraterLib Config system
